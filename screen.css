@@ -1,0 +1,19 @@
+@import url("../../Downloads/keep-it-simple-creaTTor.com/KeepItSimple11/css/reset.css");
+@import url("../../Downloads/keep-it-simple-creaTTor.com/KeepItSimple11/css/960.css");
+@import url("../../Downloads/keep-it-simple-creaTTor.com/KeepItSimple11/css/KeepItSimple.css");
+.para {
+	color: #000;
+	font-size: 16pt;
+	line-height:150%;
+	 word-spacing: 30px;
+}
+.pa {
+	color: #FF0000;
+}
+#intro {
+	color: #000;
+	font-size: 20px;
+	text-align:justify;
+	height: 500px;
+	line-height: 150%;
+}
